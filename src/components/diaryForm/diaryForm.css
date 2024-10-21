@@ -1,0 +1,16 @@
+.main-data-block{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.data-block{
+    display: flex;
+    gap: 25px;
+}
+.color-red{
+    color: red;
+    font-size: 0.8em;
+    font-weight: 600;
+    padding-left: 12px;
+    padding-top: 10px;
+}
